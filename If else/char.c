@@ -7,6 +7,7 @@ int main(){
 
                }else{
                               printf("a is not alphabet");
+                              return 0;
                }
 
 }
