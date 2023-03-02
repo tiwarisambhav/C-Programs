@@ -8,5 +8,6 @@ int main(){
                               printf("a is negative");
                }else{
                               printf("a is zero");
+                              return 0;
                }
 }

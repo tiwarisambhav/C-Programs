@@ -8,5 +8,6 @@ int main(){
                               printf("b is greatest");
                }else{
                               printf("c is greatest");
+                              return 0;
                }
 }
