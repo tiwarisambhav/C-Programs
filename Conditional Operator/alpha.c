@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(){
+/*int main(){
     char ch;
     printf("Enter the intput");
     scanf("%c",&ch);
@@ -14,7 +14,16 @@ int main(){
         }
         return 0;
 
+}*/
+int main(){
+int a;
+float b;
+a=5.9999;
+b=5;
+printf("a=%d,b=%f",a,b);
+return 0;
 }
+
 
     
 
